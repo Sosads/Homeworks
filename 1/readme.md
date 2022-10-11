@@ -6,4 +6,4 @@ a = 2 b = 10 -> max = 10
 
 a = -9 b = -3 -> max = -3
 
-![Блок-схема](1\diagram.drawio.png)
+![Блок-схема](diagram.drawio.png)
